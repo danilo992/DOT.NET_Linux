@@ -1,0 +1,11 @@
+/home/tadeu/DOT.NET_linux/bin/Debug/netcoreapp3.1/DOT.NET_linux
+/home/tadeu/DOT.NET_linux/bin/Debug/netcoreapp3.1/DOT.NET_linux.deps.json
+/home/tadeu/DOT.NET_linux/bin/Debug/netcoreapp3.1/DOT.NET_linux.runtimeconfig.json
+/home/tadeu/DOT.NET_linux/bin/Debug/netcoreapp3.1/DOT.NET_linux.runtimeconfig.dev.json
+/home/tadeu/DOT.NET_linux/bin/Debug/netcoreapp3.1/DOT.NET_linux.dll
+/home/tadeu/DOT.NET_linux/bin/Debug/netcoreapp3.1/DOT.NET_linux.pdb
+/home/tadeu/DOT.NET_linux/obj/Debug/netcoreapp3.1/DOT.NET_linux.csprojAssemblyReference.cache
+/home/tadeu/DOT.NET_linux/obj/Debug/netcoreapp3.1/DOT.NET_linux.AssemblyInfoInputs.cache
+/home/tadeu/DOT.NET_linux/obj/Debug/netcoreapp3.1/DOT.NET_linux.AssemblyInfo.cs
+/home/tadeu/DOT.NET_linux/obj/Debug/netcoreapp3.1/DOT.NET_linux.dll
+/home/tadeu/DOT.NET_linux/obj/Debug/netcoreapp3.1/DOT.NET_linux.pdb
